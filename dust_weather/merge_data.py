@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 20 15:42:48 2025
-
-@author: Roh Jun Seok
-"""
 import pandas as pd
 
 dust = pd.read_excel('./data/dust_final.xlsx')
