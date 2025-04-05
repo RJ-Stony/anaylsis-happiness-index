@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 20 16:43:55 2025
-
-@author: Roh Jun Seok
-"""
 import pandas as pd
 
 df = pd.read_excel('./data/happy_index.xlsx')
