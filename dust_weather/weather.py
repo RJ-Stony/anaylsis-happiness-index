@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 20 15:29:56 2025
-
-@author: Roh Jun Seok
-"""
 import pandas as pd
 
 weather = pd.read_excel('./data/weather.xlsx')
